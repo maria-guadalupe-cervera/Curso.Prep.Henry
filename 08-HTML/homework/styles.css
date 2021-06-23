@@ -1,0 +1,14 @@
+h1{
+    color:orangered;}
+img{
+    width: 400px;}
+#thirdDiv{
+   height: 600px;
+   width:500px;
+   background-color: peru;
+   padding:50px;
+   border:30px;
+   border-style:solid;
+   border-color: saddlebrown;}
+#spanId{
+   margin:50px;}
